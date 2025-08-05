@@ -19,6 +19,6 @@ Username: admin
 Password: 123
 <html>
   <body>
-  <img src="StudentRecordSystem/ss.png" alt="test image" width="600"/>
+ <img src="ss.png" alt="Login Screenshot" width="600"/>
   </body>
 </html>
