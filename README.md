@@ -17,3 +17,8 @@ This project is a simple Student Record Keeping System built using C# Windows Fo
 ## Login Credentials
 Username: admin  
 Password: 123
+<html>
+  <body>
+  <img src="StudentRecordSystem/ss.png" alt="test image" width="600"/>
+  </body>
+</html>
